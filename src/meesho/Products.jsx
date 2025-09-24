@@ -6,7 +6,7 @@ const Products = ({
   return (
     <div className="col-md-6 text-center">
       <div
-        className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative d-flex align-items-center"
+        className="row g-0 border rounded  mb-4 shadow-sm h-md-250 position-relative d-flex align-items-center"
         style={{ height: "30vh" }}
       >
         <div className="col-8 d-flex flex-column position-static">
